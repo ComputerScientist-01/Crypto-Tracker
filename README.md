@@ -3,33 +3,29 @@
 	<img src="https://user-images.githubusercontent.com/39644109/110592126-e6fc2700-819f-11eb-9ca5-8827418963c7.png" width=80%/>
 </a>
     
-<h2 align="center"> < Insert Project Title Here > </h2>
-<h4 align="center"> < Insert Project Description Here > <h4>
-
 </p>
 
----
+<h2 align="center"> Crypto Tracker </h2>
+<h4 align="center"> A visualization of cryptocurrencies in real time <h4>
 
-demo - [DEMO](link)
 
-Title and description.
+
+### Demo - [Link](link)
+
 
 ---
 
 ## :fire: Features
 
-- point 1
-- point 2
-- point 3
-- point 4
+- A graph depicting cryptocurrency prices
 
 ---
 
 ## :bulb: Built Using
 
-- [**FLUTTER**](https://flutter.dev/)
-- [**VELOCITY X**](https://velocityx.dev/)
-- [**ALAN AI**](https://alan.app/)
+- Python
+- Streamlit
+- Pandas
 
 ---
 

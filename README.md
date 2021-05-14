@@ -11,6 +11,7 @@
 
 
 ### Demo - [Link](link)
+(will be done on gh-pages)
 
 
 ---
@@ -25,7 +26,7 @@
 
 - Python
 - Streamlit
-- Pandas
+- Pandas-datareader
 
 ---
 
@@ -35,29 +36,27 @@
 | --------------------------------- | --------------------------------- |
 | <img src="images/"  width="300"/> | <img src="images/"  width="300"/> |
 | <img src="images/" width="300"/>  | <img src="images/" width="300"/>  |
-| <img src="images/" width="300"/>  | <img src="images/" width="300"/>  |
-| <img src="images/" width="300"/>  | <img src="images/" width="300"/>  |
-| <img src="images/" width="300"/>  | <img src="images/" width="300"/>  |
+
 
 ---
 
 ## Instructions to run
 
 - Pre-requisites:
+  - streamlit
+  - pandas-datareader
+  - datetime
 
-  - < insert pre-requisite >
-  - < insert pre-requisite >
-
-- < directions to install >
+- directions to install
 
 ```bash
-< insert code >
+ pip install requirements.txt
 ```
 
-- < directions to execute >
+- directions to execute
 
 ```bash
-< insert code >
+streamlit run main.py
 ```
 
 ---

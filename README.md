@@ -10,8 +10,8 @@
 
 
 
-### Demo - [Link](link)
-(will be done on gh-pages)
+### Demo - [Link](https://share.streamlit.io/computerscientist-01/crypto-tracker/main/main.py)
+deployed on streamlit share
 
 
 ---

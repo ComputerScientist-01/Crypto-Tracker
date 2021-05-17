@@ -60,14 +60,16 @@ streamlit run main.py
 ```
 
 ---
+## Contributing
+
+If you'd like to contribute, please fork the repository and make changes as
+you'd like. Pull requests are warmly welcome. Thanks alot
 
 ## :heart: Found this project interesting?
 
-<br>
+If you found this project useful, then please consider giving it a :star: on Github 
+and sharing it with your friends via social media.
 
-## If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
-
-<br>
 <!-- CONTACT -->
 
 ## :man: Project Created & Maintained By -

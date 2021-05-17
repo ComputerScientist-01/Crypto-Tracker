@@ -2,7 +2,7 @@
     <a href="https://jayvardhanrathi.tech">
 	<img src="https://user-images.githubusercontent.com/39644109/110592126-e6fc2700-819f-11eb-9ca5-8827418963c7.png" width=80%/>
 </a>
-    
+
 </p>
 
 <h2 align="center"> Crypto Tracker </h2>
@@ -32,10 +32,10 @@ deployed on streamlit share
 
 ## :iphone: Screenshots
 
-|                                   |                                   |
-| --------------------------------- | --------------------------------- |
-| <img src="images/"  width="300"/> | <img src="images/"  width="300"/> |
-| <img src="images/" width="300"/>  | <img src="images/" width="300"/>  |
+|                                          |                                           |
+| ---------------------------------------- | ----------------------------------------- |
+| <img src="images/eth.png"  width="600"/> | <img src="images/doge.png"  width="600"/> |
+| <img src="images/btc.png" width="600"/>  | <img src="images/bnb.png" width="600"/>   |
 
 
 ---

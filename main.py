@@ -8,7 +8,12 @@ opts = st.selectbox('Select Pair', (
     'BTC-USD',
     'ETH-USD',
     'BNB-USD',
-    'DOGE-USD'
+    'DOGE-USD', # stocks below
+    'RELIANCE.NS', 
+    'IDFCFIRSTB.NS', 
+    'SBIN.NS', 
+    'ITC.NS', 
+    'ZOMATO.NS'
 ))
 
 prices = web.get_data_yahoo(
